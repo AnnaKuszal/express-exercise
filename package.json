@@ -1,0 +1,11 @@
+{
+  "name": "express-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AnnaKuszal/express-exercise.git",
+  "author": "Anna Kuszal <anna.kuszal@o2.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
